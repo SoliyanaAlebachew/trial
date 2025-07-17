@@ -1,20 +1,26 @@
 {
   "name": "trial",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "My trial Node.js project",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+  },
+  "author": "Soliyana Alebachew",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": ">=8.11.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoliyanaAlebachew/trial.git"
+    "url": "https://github.com/SoliyanaAlebachew/trial.git"
   },
-  "keywords": [],
-  "author": "Soliyana",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SoliyanaAlebachew/trial/issues"
-  },
-  "homepage": "https://github.com/SoliyanaAlebachew/trial#readme",
-  "description": ""
+  "keywords": [
+    "node",
+    "express",
+    "trial"
+  ]
 }

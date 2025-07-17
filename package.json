@@ -2,7 +2,7 @@
   "name": "trial",
   "version": "1.0.0",
   "description": "My trial Node.js project",
-    "author": "Soliyana Alebachew",
+    "author": "soliyana",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

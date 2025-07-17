@@ -2,11 +2,12 @@
   "name": "trial",
   "version": "1.0.0",
   "description": "My trial Node.js project",
+    "author": "Soliyana Alebachew",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Soliyana Alebachew",
+
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"

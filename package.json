@@ -1,18 +1,15 @@
 {
   "name": "trial",
   "version": "1.0.0",
-  "description": "My trial Node.js project",
+  "description": "A basic Node.js and Express project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Soliyana Alebachew",
-  "license": "ISC",
+  "author": "Soliyana",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
-  },
-  "engines": {
-    "node": ">=8.11.2"
+    "express": "^4.21.2"
   },
   "repository": {
     "type": "git",
@@ -21,6 +18,10 @@
   "keywords": [
     "node",
     "express",
-    "trial"
-  ]
+    "freecodecamp"
+  ],
+  "bugs": {
+    "url": "https://github.com/SoliyanaAlebachew/trial/issues"
+  },
+  "homepage": "https://github.com/SoliyanaAlebachew/trial#readme"
 }
